@@ -30,7 +30,6 @@ public class MySteps {
 
 		String url = prop.getProperty("URL");
 		String browser = prop.getProperty("Browser");
-		//driver selection
 		if (browser.equalsIgnoreCase("firefox")) {
 			System.setProperty("webdriver.gecko.driver", "/Users/nirmalkumar/Documents/Software/geckodriver");
 			driver = new FirefoxDriver();
