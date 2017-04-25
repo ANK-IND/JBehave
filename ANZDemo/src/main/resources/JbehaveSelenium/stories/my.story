@@ -1,4 +1,4 @@
-Narrative :Contains the scenarios related to Flipkart website Login Validation scenarios 
+Narrative :Contains the scenarios related to Flipkart website Login Validation scenarios  
 
 @login
 Scenario: Validating successful user Login for Flipkart Website
